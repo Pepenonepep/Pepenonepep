@@ -33,8 +33,8 @@ Sou **Cauã**, estudante de **Análise e Desenvolvimento de Sistemas** no IFBA, 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pepenonepep&show_icons=true&theme=dark" alt="Pepenonepep's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pepenonepep&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pepenonepep&show_icons=true&theme=dracula" height="180" alt="Pepenonepep's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pepenonepep&layout=compact&theme=dracula" height="180" alt="Top Langs" />
 </div>
 
 <br>
