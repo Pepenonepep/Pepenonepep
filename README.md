@@ -29,11 +29,12 @@ Sou **Cauã**, estudante de **Análise e Desenvolvimento de Sistemas** no IFBA, 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pepenonepep&show_icons=true&theme=dark" alt="Pepenonepep's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepenonepep&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pepenonepep&show_icons=true&theme=dark" alt="Pepenonepep's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pepenonepep&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <br>
